@@ -212,7 +212,7 @@ namespace MKEHCBot // Note: actual namespace depends on the project name.
                 }
             }
 
-            if (punisherCounter >= 2)
+            if (punisherCounter >= 6)
             {
 
                 //This is where we assign this person the role of punisher. 
